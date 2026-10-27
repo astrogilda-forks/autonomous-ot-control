@@ -1,6 +1,6 @@
 {
   "schema": "ot-edge-run-record/v1",
-  "record_id": "template-reference-verifier-20261027T170733Z",
+  "record_id": "template-reference-verifier-20261027T170924Z",
   "edge": {
     "edge_id": "template-reference-verifier",
     "project": "autonomous-ot-control reference verifier (template)",
@@ -58,8 +58,8 @@
   "independence_level": "L0_SELF_TEST",
   "environment": "Python 3.14.0 on Windows-11-10.0.26200-SP0",
   "command": "./deploy/scripts/run-edge.sh _template v2 --local",
-  "started_at": "2026-10-27T17:07:33Z",
-  "completed_at": "2026-10-27T17:07:33Z",
+  "started_at": "2026-10-27T17:09:24Z",
+  "completed_at": "2026-10-27T17:09:24Z",
   "status": "PASS",
   "result": {
     "ok": true,
@@ -364,8 +364,8 @@
   },
   "run_ref": null,
   "provenance": {
-    "testbed_commit_at_run": "e8a4aa5fd12afddc6c2916627c4a3c10f92b5723",
-    "worktree_dirty": true,
+    "testbed_commit_at_run": "ac206b1c21d99761061a2013954f464d6b8b9b01",
+    "worktree_dirty": false,
     "edge_files_sha256": {
       "adapter.py": "9734179ae950cff380071e730d9ccbc8a5e5f594817d10911b8eceb4f06e44ab",
       "edge.json": "7136642911de3f227b199abee4120c45c5de5c6e55ec75c00543944191d469b0"

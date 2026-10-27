@@ -12,7 +12,7 @@ Negative results and false refusals stay here.
 | Date | Edge | Boundary | Fixtures (package digest) | Testbed | Positives | Negatives caught | Status | Level | Operator / host | Run ref |
 |---|---|---|---|---|---|---|---|---|---|---|
 | 2026-10-27 | `template-reference-verifier` | `effect_evidence` | `v1` (`437cd68da508…`) | `942ba37` | 12 / 12 | 6 / 6 | PASS | `L0_SELF_TEST` | PRODUCER / PRODUCER_CONTROLLED | `federation/records/template-reference-verifier/20261027T151113Z.json` |
-| 2026-10-27 | `template-reference-verifier` | `effect_evidence` | `v2` (`407a3c57ce2b…`) | `942ba37` | 12 / 12 | 10 / 10 | PASS | `L0_SELF_TEST` | PRODUCER / PRODUCER_CONTROLLED | `federation/records/template-reference-verifier/20261027T170733Z-v2.json` |
+| 2026-10-27 | `template-reference-verifier` | `effect_evidence` | `v2` (`407a3c57ce2b…`) | `942ba37` | 12 / 12 | 10 / 10 | PASS | `L0_SELF_TEST` | PRODUCER / PRODUCER_CONTROLLED | `federation/records/template-reference-verifier/20261027T170924Z-v2.json` |
 
 ## By claim
 
